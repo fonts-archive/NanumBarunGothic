@@ -1,6 +1,6 @@
 # Nanum Gothic
 
-[Visit Naver](https://hangeul.naver.com/font) · [Download Font Family](https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic/NanumBarunGothic.zip)
+[Visit Source](https://hangeul.naver.com/font) · [Download Font Family](https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic/NanumBarunGothic.zip)
 
 &nbsp;
 
