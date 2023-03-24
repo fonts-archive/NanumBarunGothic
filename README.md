@@ -1,6 +1,6 @@
-# Nanum Gothic
+# Nanum Barun Gothic
 
-[Visit Source](https://hangeul.naver.com/font) · [Download Font Family](https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic/NanumBarunGothic.zip)
+[Visit Source](https://hangeul.naver.com/font)
 
 &nbsp;
 
@@ -15,7 +15,7 @@ font-family: 'Nanum Barun Gothic';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic/NanumBarunGothic.css"/>
+<link rel='stylesheet' href='https://cdn.statically.io/gh/fonts-archive/NanumBarunGothic/main/NanumBarunGothic.css'/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic/NanumBarunGothic.css');
+@import url('https://cdn.statically.io/gh/fonts-archive/NanumBarunGothic/main/NanumBarunGothic.css');
 ```
 
 &nbsp;
@@ -31,5 +31,5 @@ import
 URL
 
 ```
-https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic/NanumBarunGothic.css
+https://cdn.statically.io/gh/fonts-archive/NanumBarunGothic/main/NanumBarunGothic.css
 ```
